@@ -1,0 +1,2 @@
+index,host,source,sourcetype,_raw
+main,www.destinations.com,web_log,access_custom,"2012-09-14 17:29:11:000,5.5.5.5,Method-And-URI,-,80,-,10.2.1.35,User-Agent,200,0,0,468,1488"

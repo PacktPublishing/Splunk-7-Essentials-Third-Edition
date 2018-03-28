@@ -1,0 +1,15 @@
+GET,/destinations/search
+GET,/destination/AK/details
+GET,/destination/MIA/details
+GET,/destination/NY/details
+GET,/destination/MCO/details
+GET,/destination/HOU/details
+GET,/destination/PML/details
+GET,/destination/WAS/details
+GET,/destination/LAX/details
+GET,/destination/SEA/details
+POST,/auth
+GET,/home
+POST,/booking/reservation
+POST,/booking/payment
+GET,/booking/confirmation
