@@ -8,7 +8,7 @@ This book is for anyone who needs to get reports and analytics from machine data
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
+We would recommend you all to use the previous version of "eventgen" packages in order to get an appropriate output of codes. You can find it at https://github.com/coccyx/eventgen
 
 
 The code will look like the following:
