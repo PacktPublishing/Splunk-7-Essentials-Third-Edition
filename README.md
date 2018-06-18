@@ -8,7 +8,7 @@ This book is for anyone who needs to get reports and analytics from machine data
 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
+We
 
 
 The code will look like the following:
